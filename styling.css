@@ -1,0 +1,29 @@
+#darkmode #aboutus {
+    background: rgb(58, 57, 57);
+    color: white;
+  }
+  #darkmode .abuabu {
+    background: rgb(58, 57, 57);
+    color: white;
+  }
+  #darkmode #gallery {
+    background: rgb(58, 57, 57);
+    color: white;
+  }
+  #darkmode  {
+    background: rgb(58, 57, 57);
+    color: white;
+  }
+  #darkmode #contact {
+    background: rgb(58, 57, 57);
+    color: white;
+  }
+  #darkmode .ringkasan {
+      color: white;
+  }
+  .menu ul li {
+    float: left;
+    width: 20%;
+    text-align: center;
+  }
+    
